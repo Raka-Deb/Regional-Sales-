@@ -3,6 +3,11 @@
 ## Project Overview
 This project involves an Exploratory Data Analysis (EDA) of Acme Co.'s sales data from 2014 to 2018, focusing on revenue and profit drivers across products, channels, and regions. The analysis uncovers seasonal trends, outliers, and performance against budgets to inform pricing, promotion, and market expansion strategies. The insights derived are intended to support the development of a Power BI dashboard for strategic decision-making and sustainable growth.
 
+
+![image alt](https://github.com/Raka-Deb/Regional-Sales-/blob/8edd46ae906483e74fbfdb52404d5215e64e5ee6/Regional%20Sales%20.jpg)
+
+
+
 ---
 
 ## Problem Statement
